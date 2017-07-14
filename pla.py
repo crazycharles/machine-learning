@@ -1,6 +1,7 @@
 #!usr/bin/env python
 #coding:utf-8
 #The perceptron algorithm is a model that used to classify data.
+#NOTICE: 
 #There are two forms: the original form and the dual form
 
 #original form (The following code is the original form)
