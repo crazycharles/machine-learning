@@ -5,7 +5,8 @@ In this repository, I will completed some basic algorithms of machine learning b
 
 Before we use the pla, the separating hyperplane is not well:
 
-
+![image](https://github.com/mangoroom/machine-learning/figures/before_pla.png)
 After we used the pla, the separating hyperplane is perfect:
+![image](https://github.com/mangoroom/machine-learning/figures/after_pla.png)
 
 
